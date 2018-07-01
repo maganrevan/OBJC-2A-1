@@ -1,3 +1,4 @@
+/* #################################################### Einsendeaufgabe 2.1 #################################################### */
 //
 //  main.swift
 //  OBJC-2A-1
@@ -8,5 +9,10 @@
 
 import Foundation
 
-print("Hello, World!")
+print("\t\t\t\"\t\t\t")
 
+for _ in 0 ... 4{
+    print("#\t\t\t\t\t\t#")
+}
+
+print("\t\t\t\"\t\t\t")
